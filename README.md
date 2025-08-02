@@ -20,4 +20,4 @@ Infrastructure DevOps pour déployer plusieurs Wiki.js indépendants via Docker,
 - Docker + Docker Compose
 - Nginx installé et configuré
 - Clé SSH configurée dans GitHub secrets
-
+test 1 
