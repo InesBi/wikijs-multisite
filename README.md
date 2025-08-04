@@ -16,7 +16,7 @@ Infrastructure DevOps pour déployer plusieurs Wiki.js indépendants via Docker,
    - http://wiki2.monplateforme.local
    - http://wiki-public.monplateforme.local
 
-## Configuration serveur
+## Configuration serveur (VM Oracle)
 - Docker + Docker Compose
 - Nginx installé et configuré
 - Clé SSH configurée dans GitHub secrets
